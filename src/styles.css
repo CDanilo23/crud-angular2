@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+form.ng-valid {
+	border-top: 5px solid #42A948;
+}
+
+form.ng-invalid {
+	border-top: 5px solid #a94442;
+}
+
+
+.user-box .glyphicon {  
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.user-box .small {
+    display: block;
+    line-height: 1.428571429;
+    color: #999;
+}
+
+.error {
+	color: red;
+}
